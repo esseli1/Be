@@ -1,6 +1,6 @@
 {
-    "token": "",
-    "prefix": "+",
+    "token": "NTI4OTk1MjM0NTAwMDUwOTY2.DwqYzw.8XlHRGlrjVQv8vSlTIvOGJsDXlQ",
+    "prefix": ".",
     "rainbowdelay": 200,
     "rainbowcommand": "start",
     "rainbowstop": "stop",
@@ -295,7 +295,7 @@
     ],
     "messageresponse": {
         "missingperm": "I need permission 'MANAGE_ROLES' to execute this action.",
-        "success": "GizZa Fo2 > LETS DANCE!!!",
+        "success": "Tmm > LETS DANCE!!!",
         "rainbowstop": "Ok ranbow is over",
         "rolenotfound": "The requested role you typed was not found"
     }
